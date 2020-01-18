@@ -5,7 +5,7 @@
 Udacity Programming for Data Science using R Nanodegree
 
 ### Description
-Udacity Programming for Data Science using R Nanodegree.
+Udacity Programming for Data Science using R Nanodegree..
 This project is part of the Git and Github course.
 
 ### Files used
