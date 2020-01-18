@@ -1,15 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+18 January 2020
 
 ### Project Title
-Replace the Project Title
+Udacity Programming for Data Science using R Nanodegree
 
 ### Description
-Describe what your project is about and what it does
+Udacity Programming for Data Science using R Nanodegree. This project is part of the Git and Github course.
 
 ### Files used
-Include the files used
+bikeshare.py and some data files
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
