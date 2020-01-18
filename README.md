@@ -1,8 +1,8 @@
 ### Date created
-7th of January 2020
+18 January 2020
 
 ### Project Title
-pdsnd_github
+Udacity Programming for Data Science using R Nanodegree
 
 ### Description
 Test project to submit 
